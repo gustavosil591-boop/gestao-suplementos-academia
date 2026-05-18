@@ -8,23 +8,23 @@
 </head>
 <body>
     <div class="container">
-        <h1>🏋️‍♂️ Estoque de Suplementos</h1>
+        <h1> Estoque de Suplementos</h1>
         
         <div class="form-section">
             <h2>Cadastrar Novo Produto</h2>
             <form id="form-suplemento">
-                <input type="text" id="nome" placeholder="Nome do Suplemento (Ex: Whey Gold)" required>
+                <input type="text" id="nome" placeholder="Nome do Suplemento (Ex: Whey)" required>
                 
                 <select id="categoria" required>
                     <option value="" disabled selected>Selecione a Categoria</option>
                     <option value="Proteína">Proteína (Whey, Albumina)</option>
                     <option value="Creatina">Creatina</option>
                     <option value="Pré-treino">Pré-treino</option>
-                    <option value="Vitaminas">Vitaminas</option>
+                    <option value="Vitaminas">Multi-Vitaminico</option>
                 </select>
 
                 <input type="number" id="quantidade" placeholder="Quantidade em Estoque" required min="1">
-                <input type="date" id="validade" required title="Data de Validade">
+                <input type="date" id="validade" required title="Data de Validade do Produto">
                 
                 <button type="submit">Cadastrar Suplemento</button>
             </form>
@@ -38,7 +38,7 @@
                         <th>Nome</th>
                         <th>Categoria</th>
                         <th>Quantidade</th>
-                        <th>Validade</th>
+                        <th>Validade do Produto/th>
                     </tr>
                 </thead>
                 <tbody id="tabela-corpo">
