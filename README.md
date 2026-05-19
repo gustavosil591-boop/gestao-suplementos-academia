@@ -13,7 +13,7 @@ Projeto desenvolvido para a disciplina de Engenharia de Software.
 
 ## 🚀 Funcionalidades (Release 1)
 - [x] Documentação e Setup do Projeto
-- [ ] Cadastro de Suplementos (Nome, categoria, quantidade, lote, etc.)
+- [x] Cadastro de Suplementos (Nome, categoria, quantidade, lote, etc.)
 - [ ] Visualização de Estoque em tempo real
 - [ ] Separação e filtragem por Categoria
 - [ ] Registro de Movimentações (Entradas/Saídas)
