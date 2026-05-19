@@ -21,12 +21,14 @@
                     <option value="Creatina">Creatina</option>
                     <option value="Pré-treino">Pré-treino</option>
                     <option value="Vitaminas">Multi-Vitaminico</option>
-                </select>
-
-                <input type="number" id="quantidade" placeholder="Quantidade em Estoque" required min="1">
-                <input type="date" id="validade" required title="Data de Validade do Produto">
-                
-                <button type="submit">Cadastrar Suplemento</button>
+                </select> 
+    <input type="number" id="quantidade" placeholder="Quantidade em Estoque" required min="1">
+    <input type="number" id="precoCusto" placeholder="Preço de Custo (R$)" step="0.01" required>
+    <input type="number" id="precoVenda" placeholder="Preço de Venda (R$)" step="0.01" required>
+    <input type="text" id="lote" placeholder="Lote do Produto" required>
+    <input type="date" id="validade" required title="Data de Validade do Produto">
+    <button type="submit">Cadastrar Suplemento</button>
+            
             </form>
         </div>
 
@@ -38,6 +40,11 @@
                         <th>Nome</th>
                         <th>Categoria</th>
                         <th>Quantidade</th>
+                        <th>Preço a custo</th>
+                        <th>Preço a venda</th>
+                        <th>lote
+                    
+                        </th>
                         <th>Validade do Produto</th>
                     </tr>
                 </thead>
