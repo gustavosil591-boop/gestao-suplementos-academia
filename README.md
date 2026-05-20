@@ -21,6 +21,9 @@ Projeto desenvolvido para a disciplina de Engenharia de Software.
 ## 🛠️ Tecnologias Utilizadas
 *(ainda a decidir quais tecnologias serão utilizadas)*
 
+# Links de acompanhamento
+- Trello: https://trello.com/invite/b/69ff74d87c9be7c29333872d/ATTIdfc39977dd0b351d878ffeeffea18f23DDB4135C/projeto-engenharia-de-software-suplementos
+
 
 ## 📅 Sprints
 * **Sprint 1 (18/05 a 31/05):** Estruturação, requisitos e controle básico (Cadastro e Estoque).
