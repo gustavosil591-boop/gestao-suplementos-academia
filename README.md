@@ -19,13 +19,31 @@ Projeto desenvolvido para a disciplina de Engenharia de Software.
 - [ ] Registro de Movimentações (Entradas/Saídas)
 
 ## 🛠️ Tecnologias Utilizadas
-*(ainda a decidir quais tecnologias serão utilizadas)*
+* **Ferramenta de Design:** Figma (Prototipagem)
+* **Ambiente de desenvolvimento:** Github Codespace
+* **Ospedagem do Site:** Vercel (será usado futuramente)
 
-## Links de Acompanhamento
-O gerenciamento de tarefas, divisões da Sprint e acompanhamento do progresso da equipe foram organizados através do trello e a crianção de telas foram feitas através do figma:
+## Link de Acompanhamento
+O gerenciamento de tarefas, divisões da Sprint e acompanhamento do progresso da equipe foram organizados através do trello 
 - Trello: https://trello.com/invite/b/69ff74d87c9be7c29333872d/ATTIdfc39977dd0b351d878ffeeffea18f23DDB4135C/projeto-engenharia-de-software-suplementos
-- Figma: https://www.figma.com/design/sPt083frERAg2Iny4ttnAq/SupleStock--ES?node-id=0-1&t=3oJhx0GsbNrZy3px-1
 
+## 🎨 Protótipo da Interface
+O design e o fluxo de navegação do sistema foram desenvolvidos utilizando o Figma.
+
+* [ Acesse aqui o protótipo no Figma] https://www.figma.com/design/sPt083frERAg2Iny4ttnAq/SupleStock--ES?node-id=0-1&t=3oJhx0GsbNrZy3px-1
+
+### Telas principais que serão desenvolvidas
+
+### tela de login:
+![alt text](1005b678-9398-4946-b2bd-5090319965a5.jpg)
+### tela principal
+![alt text](9b1cb9b7-22b1-447a-a845-3be98d72a7b0.jpg)
+### tela de cadastro de usuário
+![alt text](c59f9184-1398-412a-83ac-a8e7d9966e76.jpg)
+
+## 🚀 Próximos Passos (Sprint 2)
+* Integração com Banco de Dados persistente para armazenamento real dos produtos.
+* Implementação do sistema de filtragem de suplementos por categoria dinamicamente na tabela.
 
 ## 📅 Sprints
 * **Sprint 1 (18/05 a 31/05):** Estruturação, requisitos e controle básico, (Cadastro e Estoque), telas no figma.
